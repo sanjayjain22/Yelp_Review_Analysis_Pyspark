@@ -1,5 +1,5 @@
 
-## Early_Breakdown_Detection_Manufacturing
+## Yelp Restaurant Review analysis
 ![alt text](https://github.com/sanjayjain22/Yelp_Review_Analysis_Pyspark/blob/master/yelp_logo.png?raw=true)
 
 ## DESCRIPTION
